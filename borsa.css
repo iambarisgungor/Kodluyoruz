@@ -1,0 +1,42 @@
+ul {
+
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    
+    }
+    li {float: left;
+    margin-right: 30px;
+    }
+    
+    li a { min: width 2px;
+        color: rgb(0, 0, 0); 
+        font-size: larger;
+        text-decoration: none;
+         right: 500px;
+    
+    }
+
+body {
+    background-image:url(resimler/borsa.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;}
+
+    p {position: absolute;
+        width: 1200px;
+        bottom: 350px;
+        font-size: medium;
+        font-family:'Courier New', Courier, monospace;
+        color: rgb(255, 255, 255);}
+        
+        .iletişim{
+            position: absolute;
+            width: 950px;
+            bottom: 90px;
+            font-size: large;
+            font-family:'Courier New', Courier, monospace;
+            color: rgb(255, 255, 255);
+        text-decoration: none;}
+      
